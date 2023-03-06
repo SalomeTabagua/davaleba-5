@@ -1,0 +1,275 @@
+.logo {
+  width: 100px;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+header {
+  display: inline-block;
+}
+.pirveli {
+  display: inline-block;
+}
+.div1 {
+  display: inline-block;
+}
+.ul1 {
+  display: flex;
+  text-align: center;
+  justify-content: left;
+  vertical-align: middle;
+  margin-left: 500px;
+  margin-top: -80px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.li1 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.li2 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.li3 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.li4 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.li5 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.li6 {
+  vertical-align: middle;
+  text-align: center;
+  margin-right: 20px;
+}
+.muqi {
+  display: inline-block;
+  margin: 5px 10px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 45px;
+}
+.fortoxali {
+  width: 100%;
+  margin-top: 90px;
+  height: 400px;
+}
+.ig {
+  display: inline-block;
+  width: 100%;
+}
+.green {
+  width: 1400px;
+  height: 934px;
+  text-align: center;
+  margin: 50px;
+}
+.foto1 {
+  display: inline-block;
+}
+.organic {
+  text-align: left;
+  vertical-align: middle;
+  margin-left: 400px;
+}
+.U {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 59px;
+  color: #274c5b;
+}
+.M {
+  margin: 20px 0px;
+  color: #274c5b;
+}
+.wu {
+  margin-top: 30px;
+  margin-left: 400px;
+}
+.ki {
+  width: 476px;
+  height: 357.75px;
+  border-radius: 16px;
+}
+.cool {
+  vertical-align: middle;
+  color: #525c60;
+}
+.ha {
+  background-color: #f9f8f8;
+  margin-left: 500px;
+  margin-top: -300px;
+  width: 537px;
+  height: 252px;
+  padding: 63px 45px;
+}
+.meore {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  margin: 10px;
+  vertical-align: middle;
+  color: #274c5b;
+}
+.cotac {
+  height: 280px;
+  width: 420px;
+  border-radius: 16px;
+  margin-left: 950px;
+  margin-top: 100px;
+}
+.hah {
+  margin-left: 400px;
+  margin-top: -250px;
+  background-color: #f9f8f8;
+  height: 252px;
+  width: 537px;
+  padding: 63px 45px 63px 45px;
+}
+.sed {
+  color: #525c60;
+}
+.mcenare {
+  font-size: 25px;
+}
+.farm {
+  vertical-align: middle;
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.ok {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 41px;
+  color: #274c5b;
+}
+.oki {
+  color: #525c60;
+}
+.rom {
+  border-radius: 20px;
+  width: 900px;
+  height: 200px;
+  margin: 40px;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 390px;
+}
+.cont {
+  height: 35px;
+  width: 149px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+}
+.f1f {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.yellow {
+}
+.w3 {
+  margin: 10px;
+  color: #525c60;
+}
+.w4 {
+  margin: 10px;
+  color: #525c60;
+}
+.w5 {
+  margin: 10px;
+  color: #525c60;
+}
+.f2f {
+  margin-left: 700px;
+  margin-top: -200px;
+}
+.logo2 {
+  width: 50px;
+}
+.pink {
+  margin-left: 100px;
+  margin-top: -50px;
+  width: 154px;
+  height: 45px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  text-align: center;
+}
+.arvici {
+  margin-right: 450px;
+  text-align: center;
+  margin-top: 30px;
+  color: #525c60;
+}
+.ql li {
+  list-style: none;
+}
+.qm {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+}
+.qr {
+  text-align: right;
+  vertical-align: middle;
+  margin-top: -130px;
+}
+.lo1 {
+  margin: 5px;
+  color: #525c60;
+}
+.lo2 {
+  margin: 5px;
+  color: #525c60;
+}
+.lo3 {
+  margin: 5px;
+  color: #525c60;
+}
+.lo4 {
+  margin: 5px;
+  color: #525c60;
+}
+.lo5 {
+  margin: 5px;
+  color: #525c60;
+}
+hr {
+  border: solid 1px black;
+  width: 96%;
+  height: 1px;
+  width: 1920px;
+  left: 0px;
+  margin-top: 50px;
+}
+.vso {
+  margin: 40px;
+  vertical-align: middle;
+  text-align: center;
+}
+span {
+  font-weight: bold;
+}
